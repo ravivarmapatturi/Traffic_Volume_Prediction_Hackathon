@@ -6,3 +6,11 @@ Traffic Flow Prediction (TFP) is the process of forecasting the volume and densi
 ITS aims to address complex traffic management challenges in urban areas by leveraging predictive models to reduce costs associated with traffic congestion. Many countries have adopted ITS frameworks to enhance transportation efficiency, reduce travel times, and mitigate environmental impacts.
 
 This project focuses on the application of Deep Learning techniques for TFP, comparing their performance with conventional ML methods. DL models simplify data preprocessing and outperform traditional ML approaches in accuracy, making them ideal for data-driven TFP applications.
+
+
+
+
+# Leaderboard:
+
+https://machinehack.com/hackathons/the_great_indian_hiring_hackathon_2024/leaderboard
+

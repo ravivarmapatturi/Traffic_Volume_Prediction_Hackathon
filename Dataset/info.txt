@@ -1,0 +1,17 @@
+##About the Dataset
+The dataset offers vital information about factors influencing traffic flow, enabling the development of accurate traffic volume prediction models. Key features include:
+
+Time: Timestamp of the recorded data.
+Weather Conditions: Information such as temperature, precipitation, and visibility.
+Holiday Information: Flags indicating public holidays that may impact traffic.
+Other Contextual Factors: Additional details contributing to traffic flow variations.
+These features are used to predict traffic volume at a specific point in time.
+
+Dataset Files
+Train.csv:
+Contains historical traffic data, including traffic volume and the associated features. This file will be used to train the predictive model.
+
+Test.csv:
+Includes the dataset for which traffic predictions will be generated. This file is used for model evaluation and prediction.
+
+By leveraging this dataset, the project aims to create a highly accurate traffic forecasting model, contributing to better traffic management and planning systems.
